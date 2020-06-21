@@ -8,4 +8,16 @@ O aplicativo conta com as seguintes telas:
 * Floating Action Button:  Para a inserção de novas tarefas;
 * Tela para Inclusão de novas Tarefas: Tela para Adicionar/Sobrescrever tarefas;
 
-Como se percebe
+
+##  Printscreens do App
+
+O Aplicativo é bem simples, como se percebe das imagens abaixo:
+
+
+![Tela Inicial](Imagens/device-2020-06-21-195748.png)
+
+
+![Tela Adicionar Tarefas](Imagens/device-2020-06-21-195832.png)
+
+
+![Exclusão de Tarefa da Lista](Imagens/device-2020-06-21-195914.png)
